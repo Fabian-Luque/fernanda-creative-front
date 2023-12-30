@@ -47,10 +47,7 @@ ReactDOM.render(
         exact
         render={() => (
           <Fragment>
-            {/* <NavbarComponents /> */}
-            {/* <div className="pt-17"> */}
               <Dashboard />
-            {/* </div> */}
           </Fragment>
         )}
       />

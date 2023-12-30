@@ -1,6 +1,6 @@
 const textProps = {
   brand: {
-    text: "Notus PRO React",
+    text: "Fernanda Creative",
     image: require("assets/img/brand/tim_60x61.png").default,
     link: {
       href: "#pablo",
